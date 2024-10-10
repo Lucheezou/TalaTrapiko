@@ -1,0 +1,31 @@
+(1)
+
+Pindutin ang upload at pumili ng isa sa mga pagpipilian upang magsimula.
+
+(2)
+
+Pindutin ang 'Upload File' para makapagpili ng file o dokumento na nais gamitin.  
+ 
+(3)
+
+Piliin ang file o dokumento na mayroong pormat na '.txt' at pindutin ang 'Open'.
+
+(4)
+
+Kung nais mag-input ng teksto, pindutin lamang ang 'Text Input'.
+
+(5)
+
+I-type ang artikulo na gusto mong suriin at pindutin ang 'Submit'.
+
+(6)
+
+Maghintay ng ilang minuto para matapos ang pag-analisa. Sa kaliwang bahagi, makikita ang lahat ng artikulo na nai-upload. Sa gitnang bahagi makikita ang kabuuan ng na analisang artikulo. At sa kanang bahagi makikita ang mga naobserba ng mga salitang may kaugnayan sa aksidente.
+
+(7)
+
+Pindutin ang 'Pagsusuri'. Sa kaliwang bahagi, pumili ng isa sa mga istatiska upang makita ang graph ng mga salitang may kaugnayan sa aksidente.
+
+(8)
+
+Pagkatapos maipalabas ang graph, maaaring gamitin ang 'Max Entries' at 'Keyword Filter' upang maging ispesipiko ang graph ng artikulo ng iyong nais. Sa kanang bahagi naman makikita ang mga salitang may kaugnayan sa aksidente. 
